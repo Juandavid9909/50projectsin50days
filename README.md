@@ -4,8 +4,10 @@ Nos permiten agregar funciones a eventos en el DOM, la sintaxis puede ser `eleme
 
 Los event listeners que existen son:
 
-- Click.
-- Scroll.
+- click.
+- scroll.
+- mouseenter.
+- mouseleave.
 
 
 # Selección de elementos
